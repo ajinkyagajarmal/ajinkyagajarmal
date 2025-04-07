@@ -15,7 +15,7 @@ If you're into smart contracts, Web3 magic, and the occasional coffee-fueled all
 
 Experience the magic (or chaos) of my portfolio:
 
-🔗 **[anishk-portfolio.vercel.app](https://ajinkyagajarmal.vercel.app/)**  
+🔗 **[My-Portfolio](https://ajinkyagajarmal.vercel.app/)**  
 ![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel&logoColor=white)
 
 ---
