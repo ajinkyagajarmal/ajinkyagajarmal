@@ -22,9 +22,9 @@ Experience the magic (or chaos) of my portfolio:
 
 ## 👨‍💻 About Me
 
-- Master’s in Blockchain Tech  
-- Blockchain Developer at **TecMetaverse**  
-- Fluent in Solidity, JS, MERN, Ethereum, Solana, and sarcasm  
+- Master’s in Computer Science  
+- Software Developer at **TecMetaverse**  
+- Fluent in Django, JS, MERN, SQL, Postman, and sarcasm.
 - I live with a supportive co-dev — my doggo 🐶
 
 I create Full Stack WebApps, build dApps, write smart contracts, break stuff, fix it (sometimes), and drink way too much coffee.
